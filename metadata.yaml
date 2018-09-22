@@ -1,11 +1,16 @@
 _repo: A-Treatise-on-the-Origin-Progress-Prevention-and-Cure-of-Dry-Rot-in-Timber-With-remarks-on-th__55541
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55541-h/images/cover.jpg
 creator:
   author:
     agent_name: Britton, Thomas Allen
     gutenberg_agent_id: '48392'
     url: http://www.gutenberg.org/2009/agents/48392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55541#A-Treatise-on-the-Origin-Progress-Prevention-and-Cure-of-Dry-Rot-in-Timber-With-remarks-on-th_
 gutenberg_issued: '2017-09-13'
 gutenberg_type: Text
 identifiers:
